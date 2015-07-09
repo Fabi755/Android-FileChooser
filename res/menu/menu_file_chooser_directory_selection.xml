@@ -24,7 +24,7 @@
           android:showAsAction="always|withText" />
 	
 	<item android:id="@+id/action_select"
-		  android:icon="@android:drawable/ic_menu_save"
+		  android:icon="@android:drawable/ic_menu_set_as"
           android:title="@string/file_chooser_action_select"
           android:showAsAction="always|withText" />
 	
