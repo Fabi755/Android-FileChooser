@@ -17,8 +17,6 @@
 -->
 
 <resources>
-    
-    <string name="app_name">FileChooser</string>
 
     <!-- File chooser -->
     <string name="file_chooser_action_select">Select</string>
